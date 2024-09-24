@@ -51,8 +51,8 @@ Once the autoencoder is pretrained, you can train the tiny encoder detectors for
 
 Compute the feature vectors by extracting the reconstruction errors from the trained encoders.
 
-    ```bash
-    python compute_features.py --detectors_path /path/to/trained/detectors --dataset_path /path/to/Flickr30k
+    ```
+    python compute_features.py
     ```
 
 This generates the feature vectors for model evaluation.
