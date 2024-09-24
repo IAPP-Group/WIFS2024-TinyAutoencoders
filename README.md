@@ -1,6 +1,6 @@
 # Tiny_GM_Detectors
 
-This repository contains the implementation of the paper **"Tiny Autoencoders Are Effective Few-Shot Generative Model Detectors"**, accepted at WIFS 2024.
+This repository contains the implementation of the paper **"Tiny autoencoders are effective few-shot generative model detectors"**, accepted at WIFS 2024.
 
 ![Network Architecture](images/architecture.png)
 
@@ -61,13 +61,13 @@ This generates the feature vectors for model evaluation.
 
 If you use this repository in your research, please cite the following paper:
 
-**"Tiny Autoencoders Are Effective Few-Shot Generative Model Detectors"**  
+**"Tiny autoencoders are effective few-shot generative model detectors"**  
 *Authors: Luca Bindini, Giulia Bertazzini, Daniele Baracchi, Dasara Shullani, Paolo Frasconi, Alessandro Piva*  
 Accepted at WIFS 2024
 
     ```bibtex
     @inproceedings{bindini2024,
-      title={Tiny Autoencoders Are Effective Few-Shot Generative Model Detectors},
+      title={Tiny autoencoders are effective few-shot generative model detectors},
       author={Luca Bindini and Giulia Bertazzini and Daniele Baracchi and Dasara Shullani and Paolo Frasconi and Alessandro Piva},
       booktitle={Proceedings of the IEEE International Workshop on Information Forensics and Security (WIFS)},
       year={2024}
